@@ -1,0 +1,11 @@
+{
+  "name": "Little Learners PH",
+  "short_name": "Little Learners",
+  "description": "A playful preschool learning app for letters, numbers, colors, and shapes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#fff7d6",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
